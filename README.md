@@ -28,6 +28,21 @@ The system met the objectives and requirements of the project, providing a funct
 Overall, the Library Management System was found to be a success in automating the process of borrowing and returning books, and providing a user-friendly interface for both librarians and patrons. The system was able to improve the efficiency and accuracy of library operations by providing basic functionalities.
 
 WELCOME PAGE:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/AdnanHasan786/Runtime_TError/assets/116251691/94da91ed-d510-4597-b7cd-476cb8bf5e46)
 
 
